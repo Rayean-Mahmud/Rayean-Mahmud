@@ -1,28 +1,61 @@
-🚀 Welcome to my Tech Odyssey!
+<h1 align="center">Hello, I'm Rayean Mahmud Arnob 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=435&lines=Passionate+Flutter+Developer;Aspiring+Software+Engineer;Creating+impactful+applications!" alt="Typing SVG" />
+</p>
 
-Hey there! I'm Rayean Mahmud Arnob, a fervent tech enthusiast passionate about crafting seamless digital experiences. Dive into my world, where innovation meets expertise. Here's the scoop on what I bring to the table:
+---
 
-📱 Android Development: Breathing life into mobile apps, I specialize in creating user-centric experiences that resonate with the Android ecosystem.
+### 👨‍💻 About Me
+- 🎓 **Final Year CSE Student** | BSc in Computer Science & Engineering
+- 💼 Aspiring **Flutter Developer** with expertise in mobile (iOS & Android) and cross-platform apps
+- 🌍 Currently open for **Remote Opportunities** globally
+- 📖 Passionate about **continuous learning**, **problem-solving**, and **technology-driven solutions**
 
-🌐 Cross-platform Mastery: Bridging diverse platforms, I engineer versatile applications for a harmonious user experience across different devices.
+---
 
-🚀 Flutter Extraordinaire: I dance with pixels using Flutter, creating stunning and responsive interfaces that captivate and engage users.
+### 🛠️ Tech Stack
+<div align="center">
+    <img src="https://img.shields.io/badge/Code-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/Code-Python-yellow?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Code-Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white">
+    <img src="https://img.shields.io/badge/Tools-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img src="https://img.shields.io/badge/UI/UX-Figma-red?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
 
-💻 Web Wizardry: Bringing ideas to life on the web, I craft dynamic and visually appealing websites that leave a lasting impression.
+---
+### 💼 My Expertise:
+- **Flutter Development** for cross-platform mobile applications
+- **Firebase Integration** for seamless backend services
+- **UI/UX Design** using **Figma** to create intuitive and user-friendly interfaces
+- **Database Management** with **MySQL** for robust data handling
+- **Coding Skills** in **Python** and **Dart**
 
-🔍 Database Architect: Proficient in MySQL, I design robust database architectures, forming the backbone of powerful and scalable applications.
 
-🔥 Firebase Sorcery: Leveraging the magic of Firebase, I build real-time applications with seamless authentication, hosting, and database functionalities.
+---
 
-🎨 Figma Maestro: In the realm of design, I wield Figma as my virtual canvas, creating visually striking and user-centric interfaces.
+### 📈 GitHub Stats
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayean-Mahmud&theme=radical" alt="Rayean's GitHub Streak">
+</p>
 
-💻 Polyglot Coding: Fluent in Dart, Python, and the languages of software development, I thrive in the diverse landscape of coding languages.
+---
 
-🤝 Collaboration Champion: I believe in the power of collaboration and am always eager to join forces with like-minded individuals and teams.
 
-Let's connect and explore the endless possibilities of tech-driven innovation together! 👨‍💻✨
+### 🌟 Fun Fact:
+> ☕ My IDE runs on caffeine as much as it does on code. Some people count hours; I count cups of coffee. 😊
+> 🕹️ Off-duty? I’m either exploring new tech, dreaming of building the “next big thing,” or convincing my friends that coding is, in fact, fun!
 
-<!---
-Rayean-Mahmud/Rayean-Mahmud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+### 📬 Connect with Me:
+<p align="center">
+  <a href="[https://linkedin.com/in/rayean-mahmud-arnob-a78345173)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="[mailto:rayean.mahmud.arnob@g.bracu.ac.bd"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://freelancer.com/YourFreelancer](https://www.upwork.com/freelancers/~0177ac14dfc0727560?mp_source=share)"><img src="https://img.shields.io/badge/Freelancer-29b2fe?style=flat-square&logo=freelancer" alt="Freelancer"></a>
+</p>
+
+---
+
+
+### 🚀 Let's build something amazing together!
+
