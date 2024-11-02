@@ -43,19 +43,19 @@
 
 
 ### 🌟 Fun Fact:
-> ☕ My IDE runs on caffeine as much as it does on code. Some people count hours; I count cups of coffee. 😊
-> 🕹️ Off-duty? I’m either exploring new tech, dreaming of building the “next big thing,” or convincing my friends that coding is, in fact, fun!
+> - My IDE runs on caffeine as much as it does on code. Some people count hours; I count cups of coffee. ☕ 
+> - Off-duty? I’m either exploring new tech, dreaming of building the “next big thing,” or convincing my friends that coding is, in fact, fun! 😊
 
 ---
 ### 📬 Connect with Me:
 <p align="center">
   <a href="[https://linkedin.com/in/rayean-mahmud-arnob-a78345173)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="[mailto:rayean.mahmud.arnob@g.bracu.ac.bd"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://freelancer.com/YourFreelancer](https://www.upwork.com/freelancers/~0177ac14dfc0727560?mp_source=share)"><img src="https://img.shields.io/badge/Freelancer-29b2fe?style=flat-square&logo=freelancer" alt="Freelancer"></a>
+  <a href="https://www.upwork.com/freelancers/~0177ac14dfc0727560?mp_source=share"><img src="https://img.shields.io/badge/Freelancer-29b2fe?style=flat-square&logo=freelancer" alt="UpWork"></a>
 </p>
 
 ---
 
 
-### 🚀 Let's build something amazing together!
+### 🚀 Let's connect and create something amazing together!
 
