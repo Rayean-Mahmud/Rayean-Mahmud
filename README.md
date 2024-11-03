@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Rayean Mahmud Arnob 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=435&lines=Passionate+Flutter+Developer;Aspiring+Software+Engineer;Creating+impactful+applications!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=435&lines=Passionate+Flutter+Developer;Aspiring+Software+Engineer;Creating+impactful+applications" alt="Typing SVG" />
 </p>
 
 ---
