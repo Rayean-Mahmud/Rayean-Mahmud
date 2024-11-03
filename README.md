@@ -53,8 +53,6 @@
 
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
 
-Looking to know more about my experiences? Download my resume for a detailed look at my skills, projects, and background!
-
 ---
 
 ### 📬 Connect with Me:
