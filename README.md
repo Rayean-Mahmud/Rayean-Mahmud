@@ -49,6 +49,14 @@
 
 ---
 
+### 📄 Resume
+
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
+
+Looking to know more about my experiences? Download my resume for a detailed look at my skills, projects, and background!
+
+---
+
 ### 📬 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/rayean-mahmud-arnob-a78345173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
