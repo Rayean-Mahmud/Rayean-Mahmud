@@ -23,11 +23,11 @@
 ---
 
 ### 💼 My Expertise:
-- **Flutter Development** for cross-platform mobile applications
-- **Firebase Integration** for backend services
-- **UI/UX Design** with **Figma** to create intuitive interfaces
-- **Database Management** using **MySQL** for reliable data handling
-- **Coding Skills** in **Python** and **Dart**
+- **Flutter Development**: Crafting high-performance, visually appealing cross-platform mobile applications for both Android and iOS, with a focus on responsive design and seamless functionality.
+- **Firebase Integration**: Utilizing Firebase services for real-time database solutions, cloud storage, and authentication to build scalable and secure backend infrastructures.
+- **UI/UX Design**: Designing intuitive and user-friendly interfaces with **Figma**, ensuring that each app provides an engaging and accessible experience for users.
+- **Database Management**: Expertise in **MySQL** for structuring, querying, and maintaining databases, ensuring efficient and reliable data handling across applications.
+- **Coding Skills**: Proficient in **Python** and **Dart**, leveraging these languages for application logic, data processing, and creating versatile, maintainable codebases.
 
 ---
 
