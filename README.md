@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Rayean Mahmud Arnob 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=500&lines=Passionate+Flutter+Developer;Aspiring+Software+Engineer;Transforming+Ideas+into+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=500&lines=Passionate+Flutter+Developer;Aspiring+Software+Engineer;Transforming+Ideas+into+Apps" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,7 +31,6 @@
 
 ---
 
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayean-Mahmud&theme=radical" alt="Rayean's GitHub Streak" width="500">
@@ -39,7 +38,7 @@
 
 ---
 
-✨ Milestones & Projects
+### ✨ Milestones & Top Projects
 <div align="center"> <table> <tr> <td align="center"> <img src="https://img.icons8.com/color/48/000000/trophy.png" alt="Milestone Icon"/><br> <strong>2024</strong><br>Final Year Project<br><em>SafeConnect - Real-Time Emergency Alert App</em> </td> <td align="center"> <img src="https://img.icons8.com/color/48/000000/light-on.png" alt="Project Icon"/><br> <strong>2023</strong><br>Completed <br><em>HealthLink - Doctor Appointment System</em> </tr> </table> </div>
 
 ---
