@@ -51,7 +51,11 @@
 
 ### 📄 Resume
 
+<div align="center">
+  
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
+
+</div>
 
 ---
 
