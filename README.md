@@ -5,6 +5,7 @@
 
 
 
+
 ---
 
 ### 👨‍💻 About Me
@@ -35,9 +36,12 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayean-Mahmud&theme=neon" alt="Rayean's GitHub Streak" width="500">
-</p>
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats-git-main-rayean-mahmuds-projects.vercel.app?user=Rayean-Mahmud&theme=radical)](https://git.io/streak-stats)
+  
+</div>
+
 
 ---
 
