@@ -1,6 +1,6 @@
-<h3 align="center" style="color:#ff69b4; font-family: Arial, sans-serif; font-weight: bold;">
-  Hello, I'm Rayean Mahmud Arnob 👋
-</h3>
+<p align="center">
+  <img src="cooltext469668944371139.png" alt="Rayean Mahmud Arnob Logo" width="400">
+</p>
 
 
 
