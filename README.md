@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="rayean.png" alt="Rayean Mahmud Arnob " width="400">
+  <img src="Rayean-Mahmud-Arnob-11-9-2024 (4).png" alt="Rayean Mahmud Arnob " width="400">
 </p>
 
 <p align="center">
