@@ -1,4 +1,9 @@
-<h1 align="center">Hello, I'm Rayean Mahmud Arnob 👋</h1>
+<h3 align="center" style="color:#ff69b4; font-family: Arial, sans-serif; font-weight: bold;">
+  Hello, I'm Rayean Mahmud Arnob 👋
+</h3>
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=450&lines=Passionate+Flutter+Developer;Aspiring+Software+Engineer;Transforming+Ideas+into+Apps" alt="Typing SVG" />
 </p>
