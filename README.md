@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="cooltext469668944371139.png" alt="Rayean Mahmud Arnob Logo" width="400">
+  <img src="rayean.png" alt="Rayean Mahmud Arnob " width="400">
 </p>
 
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=450&lines=Passionate+Flutter+Developer;Aspiring+Software+Engineer;Transforming+Ideas+into+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=418&lines=Passionate+Flutter+Developer;Aspiring+Software+Engineer;Transforming+Ideas+into+Apps" alt="Typing SVG" />
 </p>
 
 
