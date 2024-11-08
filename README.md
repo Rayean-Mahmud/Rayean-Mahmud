@@ -34,8 +34,9 @@
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayean-Mahmud&theme=radical" alt="Rayean's GitHub Streak" width="500">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayean-Mahmud&theme=neon" alt="Rayean's GitHub Streak" width="500">
 </p>
 
 ---
