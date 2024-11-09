@@ -65,7 +65,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# 🌟 Fun Facts:
+# 🌟 Fun Facts
 - My IDE runs on as much caffeine as it does on code. Some people count hours; I count cups of coffee. ☕
 - Off-duty? I’m exploring new tech, dreaming of building the “next big thing,” or convincing my friends that coding is fun! 😊
 
@@ -73,7 +73,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# 📄 Resume
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhubDVyNHYyeDJsZGo5M3dpZzhkMDZxeGU2emd1ZXg1eGgwOXM5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwmjvrjSLGO7CaBupN/giphy.gif" width ="20"><b> Resume </b>
+
 
 <div align="center">
   
@@ -85,7 +86,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# 📬 Connect with Me:
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXN6M2xwZm96cmJ5eXlnZ2QxYjN0MWl6ejVhMmVoY29hMThvM2hpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hpGHfoD9eX2QVRnrUb/giphy.gif" width ="20"><b> Connect with Me </b>
+
 <p align="center">
   <a href="https://linkedin.com/in/rayean-mahmud-arnob-a78345173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:rayean.mahmud.arnob@g.bracu.ac.bd"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
