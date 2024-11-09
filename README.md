@@ -34,7 +34,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="27"> **My Expertise:**
+# <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="23"> **My Expertise:**
 - **Flutter Development**: Crafting high-performance, visually appealing cross-platform mobile applications for both Android and iOS, with a focus on responsive design and seamless functionality.
 - **Firebase Integration**: Utilizing Firebase services for real-time database solutions, cloud storage, and authentication to build scalable and secure backend infrastructures.
 - **UI/UX Design**: Designing intuitive and user-friendly interfaces with **Figma**, ensuring that each app provides an engaging and accessible experience for users.
@@ -45,7 +45,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"><b> Github Stats </b>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="23"><b> Github Stats </b>
 
 <div align="center">
   
