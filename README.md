@@ -2,17 +2,13 @@
 <p align="center">
   <img src="Rayean-Mahmud-Arnob-11-9-2024 (4).png" alt="Rayean Mahmud Arnob " width="400">
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=418&lines=Passionate+Flutter+Developer;Aspiring+Software+Engineer;Transforming+Ideas+into+Apps" alt="Typing SVG" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <picture><img src = "https://github.com/ashak-odree/ashak-odree/blob/main/gif/about_me.gif" width = 50px></picture> **About me**
+# <picture><img src = "https://github.com/ashak-odree/ashak-odree/blob/main/gif/about_me.gif" width = 27px></picture> <b> About me </b>
 - 🎓 **Final Year CSE Student** at <a href="https://www.bracu.ac.bd/">BRAC University</a> | BSc in Computer Science & Engineering 
 - 💼 Aspiring **Flutter Developer** with expertise in mobile (iOS & Android) and cross-platform apps
 - 🌍 Open to **Remote Opportunities** worldwide
@@ -22,7 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Frameworks, Languages, and Tools:</b>
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack </b>
 
 <table align="center"> <tr> <td align="center" width="140"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"><br><b>Flutter</b></td> <td align="center" width="140"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"><br><b>Firebase</b></td> <td align="center" width="140"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"><br><b>Dart</b></td> <td align="center" width="140"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"><br><b>Figma</b></td> <td align="center" width="140"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"><br><b>MySQL</b></td> <td align="center" width="140"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"><br><b>Python</b></td> </tr> </table>
 
@@ -30,14 +26,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### 🎨 Aesthetic Coding Setup
+# 🎨 Aesthetic Coding Setup
+
 <p align="center"> <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blueviolet?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Language-Dart-brightgreen?style=flat-square&logo=dart" /> <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Tools-Git%20%26%20GitHub-black?style=flat-square&logo=github" /> </p>
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### 💼 My Expertise:
+# <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="27"> **My Expertise:**
 - **Flutter Development**: Crafting high-performance, visually appealing cross-platform mobile applications for both Android and iOS, with a focus on responsive design and seamless functionality.
 - **Firebase Integration**: Utilizing Firebase services for real-time database solutions, cloud storage, and authentication to build scalable and secure backend infrastructures.
 - **UI/UX Design**: Designing intuitive and user-friendly interfaces with **Figma**, ensuring that each app provides an engaging and accessible experience for users.
@@ -48,7 +45,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"><b> Github Stats </b>
 
 <div align="center">
   
@@ -61,14 +58,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### ✨ Milestones & Top Projects
+# ✨ Milestones & Top Projects
 <div align="center"> <table> <tr> <td align="center"> <img src="https://img.icons8.com/color/48/000000/trophy.png" alt="Milestone Icon"/><br> <strong>2024</strong><br>Final Year Project<br><em>SafeConnect - Real-Time Emergency Alert App</em> </td> <td align="center"> <img src="https://img.icons8.com/color/48/000000/light-on.png" alt="Project Icon"/><br> <strong>2023</strong><br>Completed <br><em>HealthLink - Doctor Appointment System</em> </tr> </table> </div>
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### 🌟 Fun Facts:
+# 🌟 Fun Facts:
 - My IDE runs on as much caffeine as it does on code. Some people count hours; I count cups of coffee. ☕
 - Off-duty? I’m exploring new tech, dreaming of building the “next big thing,” or convincing my friends that coding is fun! 😊
 
@@ -76,7 +73,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### 📄 Resume
+# 📄 Resume
 
 <div align="center">
   
@@ -88,7 +85,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### 📬 Connect with Me:
+# 📬 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/rayean-mahmud-arnob-a78345173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:rayean.mahmud.arnob@g.bracu.ac.bd"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
