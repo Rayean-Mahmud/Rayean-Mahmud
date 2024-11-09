@@ -78,7 +78,8 @@
 </p>
 
 ---
-
-### 🚀 Let's connect and create something amazing together!
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/rayean-mahmud-arnob-a78345173/" target="_blank">
+    <img src="Let-s-connect-and-create-somet-11-9-2024 (4).png" alt="Let's connect and create something together" width="580">
+  </a>
+</p>
