@@ -65,7 +65,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 # ✨ Milestones & Top Projects
-<div align="center"> <table> <tr> <td align="center"> <img src="https://img.icons8.com/color/48/000000/trophy.png" alt="Milestone Icon"/><br> <strong>2024</strong><br>Final Year Project<br><em>SafeConnect - Real-Time Emergency Alert App</em> </td> <td align="center"> <img src="https://img.icons8.com/color/48/000000/light-on.png" alt="Project Icon"/><br> <strong>2023</strong><br>Completed <br><em>HealthLink - Doctor Appointment System</em> </tr> </table> </div>
+<div align="center"> <table> <tr> <td align="center"> <img src="Animation - 1731352564856.gif" width="150" alt="Milestone Icon"/><br> <strong>2024</strong><br>Final Year Project<br><em> <a href="https://github.com/Rayean-Mahmud/SafeConnect-A-Personal-Safety-Emergency-Alert-and-Connectivity-App-Flutter-Dart-Firebase">SafeConnect</a>- Real-Time Emergency Alert App</em> </td> <td align="center"> <img src="Animation - 1731351827923.gif" width="150" alt="Project Icon"/><br> <strong>2023</strong><br>Completed <br><em>HealthLink - Doctor Appointment System</em> </tr> </table> </div>
 
 <br><br>
 
@@ -109,3 +109,7 @@
     <img src="Let-s-connect-and-create-somet-11-9-2024 (4).png" alt="Let's connect and create something together" width="620">
   </a>
 </p>
+<p align="center">
+  <img src="Animation%20-%201731350648330.gif" alt="Animated GIF" width="300px">
+</p>
+
