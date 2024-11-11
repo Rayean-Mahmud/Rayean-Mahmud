@@ -88,7 +88,7 @@
 
 </div>
 
-<br>
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -100,7 +100,7 @@
   <a href="https://www.upwork.com/freelancers/~0177ac14dfc0727560?mp_source=share" target="_blank"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork" alt="Upwork"></a>
 </p>
 
-<br>
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -109,8 +109,7 @@
     <img src="Let-s-connect-and-create-somet-11-9-2024 (4).png" alt="Let's connect and create something together" width="620">
   </a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-  <img src="Animation%20-%201731350648330.gif" alt="Animated GIF" width="300px">
+  <img src="Animation%20-%201731350648330.gif" alt="Animated GIF" width="250px">
 </p>
 
