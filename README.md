@@ -105,11 +105,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="center">
+  <img src="Animation%20-%201731350648330.gif" alt="Animated GIF" width="250px">
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/rayean-mahmud-arnob-a78345173/" target="_blank">
     <img src="Let-s-connect-and-create-somet-11-9-2024 (4).png" alt="Let's connect and create something together" width="620">
   </a>
 </p>
-<p align="center">
-  <img src="Animation%20-%201731350648330.gif" alt="Animated GIF" width="250px">
-</p>
-
