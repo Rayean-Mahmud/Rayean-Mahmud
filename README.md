@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# <picture><img src = "about_me.gif" width = 27px></picture> <b> About me </b>
+# <picture><img src = "about_me.gif" width = 28px></picture> <b> About me </b>
 - 🎓 **Final Year CSE Student** at <a href="https://www.bracu.ac.bd/">BRAC University</a> | BSc in Computer Science & Engineering 
 - 💼 Aspiring **Flutter Developer** with expertise in mobile (iOS & Android) and cross-platform apps
 - 🌍 Open to **Remote Opportunities** worldwide
@@ -18,7 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack </b>
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="26"><b> Tech Stack </b>
 
 <table align="center"> <tr> <td align="center" width="140"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"><br><b>Flutter</b></td> <td align="center" width="140"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"><br><b>Firebase</b></td> <td align="center" width="140"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"><br><b>Dart</b></td> <td align="center" width="140"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"><br><b>Figma</b></td> <td align="center" width="140"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"><br><b>MySQL</b></td> <td align="center" width="140"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"><br><b>Python</b></td> </tr> </table>
 
@@ -26,7 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# 🎨 Aesthetic Coding Setup
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BwMWM1dXc2bm82cHFmbDRwdGxkYjJ0eXRtd2V3eHo0ZWZrdG0zaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="40">  Aesthetic Coding Setup
 
 <p align="center"> <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blueviolet?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Language-Dart-brightgreen?style=flat-square&logo=dart" /> <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Tools-Git%20%26%20GitHub-black?style=flat-square&logo=github" /> </p>
 
@@ -34,7 +34,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="23"> **My Expertise**
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZmYmZzdGozeDQyYWZ5Y2E2OXRjd3dheTFvMWd1OGV5c3k5YnU5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="30"> **My Expertise**
 
 - **Flutter Development**: Developing robust, cross-platform applications for **Android** and **iOS** that prioritize performance, scalability, and user-centric design. &nbsp;<img src="education-apps.png" width="18">
 
