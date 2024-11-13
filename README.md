@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# <picture><img src = "https://github.com/ashak-odree/ashak-odree/blob/main/gif/about_me.gif" width = 27px></picture> <b> About me </b>
+# <picture><img src = "about_me.gif" width = 27px></picture> <b> About me </b>
 - 🎓 **Final Year CSE Student** at <a href="https://www.bracu.ac.bd/">BRAC University</a> | BSc in Computer Science & Engineering 
 - 💼 Aspiring **Flutter Developer** with expertise in mobile (iOS & Android) and cross-platform apps
 - 🌍 Open to **Remote Opportunities** worldwide
@@ -36,17 +36,17 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="23"> **My Expertise**
 
-- **Flutter Development**: Developing robust, cross-platform applications for **Android** and **iOS** that prioritize performance, scalability, and user-centric design. &nbsp;<img src="education-apps.png" width="20">
+- **Flutter Development**: Developing robust, cross-platform applications for **Android** and **iOS** that prioritize performance, scalability, and user-centric design. &nbsp;<img src="education-apps.png" width="18">
 
-- **Firebase Integration**: Implementing **Firebase** services for real-time data synchronization, cloud storage, and user authentication to deliver secure and scalable backend solutions. &nbsp;<img src="fire.png" width="20">
+- **Firebase Integration**: Implementing **Firebase** services for real-time data synchronization, cloud storage, and user authentication to deliver secure and scalable backend solutions. &nbsp;<img src="fire.png" width="18">
 
-- **UI/UX Design**: Creating intuitive and visually appealing user interfaces with **Figma**, focused on enhancing user engagement and accessibility. &nbsp;<img src="digital-drawing.png" width="20">
+- **UI/UX Design**: Creating intuitive and visually appealing user interfaces with **Figma**, focused on enhancing user engagement and accessibility. &nbsp;<img src="digital-drawing.png" width="18">
 
-- **Database Management**: Proficient in **MySQL** for effective data organization, query optimization, and database maintenance, ensuring high performance and reliability. &nbsp;<img src="database-storage.png" width="20">
+- **Database Management**: Proficient in **MySQL** for effective data organization, query optimization, and database maintenance, ensuring high performance and reliability. &nbsp;<img src="database-storage.png" width="18">
 
-- **Programming Skills**: Skilled in **Python** and **Dart**, applying these languages to develop clean, efficient, and maintainable codebases tailored to complex applications. &nbsp;<img src="programming.png" width="20">
+- **Programming Skills**: Skilled in **Python** and **Dart**, applying these languages to develop clean, efficient, and maintainable codebases tailored to complex applications. &nbsp;<img src="programming.png" width="18">
 
-
+<br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
