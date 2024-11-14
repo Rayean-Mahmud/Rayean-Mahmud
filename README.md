@@ -28,7 +28,7 @@
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2szMXFlcDNuM3Z5b3hpbDdpdDNsd2NvNmFlOWhnOWU4OWcwYmlobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" width="28">  Aesthetic Coding Setup
 
-<p align="center"> <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blueviolet?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Language-Dart-brightgreen?style=flat-square&logo=dart" /> <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Tools-Git%20%26%20GitHub-black?style=flat-square&logo=github" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blueviolet?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Language-Dart-brightgreen?style=flat-square&logo=dart" /> <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Tools-Git%20%26%20GitHub-black?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Project%20Management-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" /> </p>
 
 <br><br>
 
@@ -97,7 +97,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/rayean-mahmud-arnob-a78345173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:rayean.mahmud.arnob@g.bracu.ac.bd"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.upwork.com/freelancers/~0177ac14dfc0727560?mp_source=share" target="_blank"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork" alt="Upwork"></a>
+  <a href="https://www.upwork.com/freelancers/~0177ac14dfc0727560?mp_source=share" target="_blank"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
+   <a href="https://wa.me/+8801642779062" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 <br><br>
