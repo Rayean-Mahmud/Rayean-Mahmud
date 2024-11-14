@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=418&lines=Passionate+Flutter+Developer;Aspiring+Software+Engineer;Transforming+Ideas+into+Apps" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 # <picture><img src = "about_me.gif" width = 28px></picture> <b> About me </b>
 - 🎓 **Final Year CSE Student** at <a href="https://www.bracu.ac.bd/">BRAC University</a> | BSc in Computer Science & Engineering 
@@ -14,7 +14,7 @@
 - 🌍 Open to **Remote Opportunities** worldwide
 - 📖 Passionate about **continuous learning**, **problem-solving**, and **technology-driven solutions**
 
-<br>
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
