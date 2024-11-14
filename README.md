@@ -82,15 +82,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# ✨ Milestones & Top Projects
+# <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG4yZ2wxdG5pYTBzZmd3bnp5OThhamZlb3ZrOW1uOHM2ODV1ODJpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohhwjlY5Qvz1SA4Y8/giphy.gif" width = "35" > Milestones & Top Projects
 <div align="center"> <table> <tr> <td align="center"> <img src="Animation - 1731352564856.gif" width="150" alt="Milestone Icon"/><br> <strong>2024</strong><br>Final Year Project<br><em> <a href="https://github.com/Rayean-Mahmud/SafeConnect-A-Personal-Safety-Emergency-Alert-and-Connectivity-App-Flutter-Dart-Firebase">SafeConnect</a>- Real-Time Emergency Alert App</em> </td> <td align="center"> <img src="Animation - 1731351827923.gif" width="150" alt="Project Icon"/><br> <strong>2023</strong><br>Completed <br><em>HealthLink - Doctor Appointment System</em> </tr> </table> </div>
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU1cXRyY3VyOThuazV2amZpMmRhYzlsM3NwODdrZHM3bTExdzR6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/igRW3jH2LcCVzMqi5F/giphy.gif" width ="38"> Fun Facts
-- My IDE runs on as much caffeine as it does on code. Some people count hours; I count cups of coffee. ☕
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTduZzRrYWU1bzRtYmY0YjVjc3NzZzFtOWYxaGRncTJicHhkbjVxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDHGSSTAnlCUeEQXX/giphy.gif" width ="38"> Fun Facts
+- My IDE runs on as much caffeine as it does on code. Some people count hours; I count cups of coffee. <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpreGI1cDZxd2RwdjhvYXJ6eHZxNDY5NXd2ZDcxNTBzMGVlcmE5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HU7JI4zIb34QM5a/giphy.gif" width ="23">
 - Off-duty? I’m exploring new tech, dreaming of building the “next big thing,” or convincing my friends that coding is fun! 😊
 
 <br><br>
