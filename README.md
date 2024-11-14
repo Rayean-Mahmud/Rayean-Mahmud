@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=418&lines=Passionate+Flutter+Developer;Aspiring+Software+Engineer;Transforming+Ideas+into+Apps" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 # <picture><img src = "about_me.gif" width = 28px></picture> <b> About me </b>
 - 🎓 **Final Year CSE Student** at <a href="https://www.bracu.ac.bd/">BRAC University</a> | BSc in Computer Science & Engineering 
@@ -14,7 +14,7 @@
 - 🌍 Open to **Remote Opportunities** worldwide
 - 📖 Passionate about **continuous learning**, **problem-solving**, and **technology-driven solutions**
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -26,13 +26,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2szMXFlcDNuM3Z5b3hpbDdpdDNsd2NvNmFlOWhnOWU4OWcwYmlobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" width="28">  Aesthetic Coding Setup
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTllYjA0d2E2MWswZDB3OXJoYXZibG1iZGI3ajQ4eTd4a2txeHh4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIVCkv3bcsBwFyESSC/giphy.gif" width="34">  Online Learning & Odyssey
 
-<p align="center"> <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blueviolet?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Language-Dart-brightgreen?style=flat-square&logo=dart" /> <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Tools-Git%20%26%20GitHub-black?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Project%20Management-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
+  <img src="https://img.shields.io/badge/Coursera-2A73CC?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" />
+  <img src="https://img.shields.io/badge/edX-5E2D2D?style=for-the-badge&logo=edx&logoColor=white" alt="edX" />
+  <img src="https://img.shields.io/badge/Khan%20Academy-5A7B8D?style=for-the-badge&logo=khanacademy&logoColor=white" alt="Khan Academy" />
+  <img src="https://img.shields.io/badge/Skillshare-1D97C6?style=for-the-badge&logo=skillshare&logoColor=white" alt="Skillshare" />
+  
+</p>
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZmYmZzdGozeDQyYWZ5Y2E2OXRjd3dheTFvMWd1OGV5c3k5YnU5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="30"> **My Expertise**
 
@@ -48,6 +57,15 @@
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVtYmRsdTYydWp2czBzZDJ6YTI0bW80cHo5MWd2Y2F5N2ppMTF0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gniz0qUijH8T7yRQWR/giphy.gif" width="34">  Aesthetic Coding Setup
+
+<p align="center"> <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blueviolet?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Language-Dart-brightgreen?style=flat-square&logo=dart" /> <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Tools-Git%20%26%20GitHub-black?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notebook-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Project%20Management-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" /> </p>
+
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -71,7 +89,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# 🌟 Fun Facts
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU1cXRyY3VyOThuazV2amZpMmRhYzlsM3NwODdrZHM3bTExdzR6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/igRW3jH2LcCVzMqi5F/giphy.gif" width ="38"> Fun Facts
 - My IDE runs on as much caffeine as it does on code. Some people count hours; I count cups of coffee. ☕
 - Off-duty? I’m exploring new tech, dreaming of building the “next big thing,” or convincing my friends that coding is fun! 😊
 
@@ -92,7 +110,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXN6M2xwZm96cmJ5eXlnZ2QxYjN0MWl6ejVhMmVoY29hMThvM2hpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hpGHfoD9eX2QVRnrUb/giphy.gif" width ="20"><b> Connect with Me </b>
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXN6M2xwZm96cmJ5eXlnZ2QxYjN0MWl6ejVhMmVoY29hMThvM2hpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hpGHfoD9eX2QVRnrUb/giphy.gif" width ="25"><b> Connect with Me </b>
 
 <p align="center">
   <a href="https://linkedin.com/in/rayean-mahmud-arnob-a78345173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
