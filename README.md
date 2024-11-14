@@ -26,7 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BwMWM1dXc2bm82cHFmbDRwdGxkYjJ0eXRtd2V3eHo0ZWZrdG0zaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="40">  Aesthetic Coding Setup
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2szMXFlcDNuM3Z5b3hpbDdpdDNsd2NvNmFlOWhnOWU4OWcwYmlobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" width="28">  Aesthetic Coding Setup
 
 <p align="center"> <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blueviolet?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Language-Dart-brightgreen?style=flat-square&logo=dart" /> <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Tools-Git%20%26%20GitHub-black?style=flat-square&logo=github" /> </p>
 
