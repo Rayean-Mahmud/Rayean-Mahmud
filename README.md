@@ -45,7 +45,7 @@
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZmYmZzdGozeDQyYWZ5Y2E2OXRjd3dheTFvMWd1OGV5c3k5YnU5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="30"> **My Expertise**
 <p align="center">
-  <img src="napkin-selection (12).png" alt="" width="800">
+  <img src="napkin-selection (12).png" alt="" width="750">
 </p>
 
 <br>
