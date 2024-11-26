@@ -44,16 +44,9 @@
 
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZmYmZzdGozeDQyYWZ5Y2E2OXRjd3dheTFvMWd1OGV5c3k5YnU5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="30"> **My Expertise**
-
-- **Flutter Development**: Developing robust, cross-platform applications for **Android** and **iOS** that prioritize performance, scalability, and user-centric design. &nbsp;<img src="education-apps.png" width="18">
-
-- **Firebase Integration**: Implementing **Firebase** services for real-time data synchronization, cloud storage, and user authentication to deliver secure and scalable backend solutions. &nbsp;<img src="fire.png" width="18">
-
-- **UI/UX Design**: Creating intuitive and visually appealing user interfaces with **Figma**, focused on enhancing user engagement and accessibility. &nbsp;<img src="digital-drawing.png" width="18">
-
-- **Database Management**: Proficient in **MySQL** for effective data organization, query optimization, and database maintenance, ensuring high performance and reliability. &nbsp;<img src="database-storage.png" width="18">
-
-- **Programming Skills**: Skilled in **Python** and **Dart**, applying these languages to develop clean, efficient, and maintainable codebases tailored to complex applications. &nbsp;<img src="programming.png" width="18">
+<p align="center">
+  <img src="napkin-selection (12).png" alt="" width="800">
+</p>
 
 <br>
 
