@@ -55,8 +55,9 @@
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVtYmRsdTYydWp2czBzZDJ6YTI0bW80cHo5MWd2Y2F5N2ppMTF0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gniz0qUijH8T7yRQWR/giphy.gif" width="34">  Aesthetic Coding Setup
 
 <p align="center"> <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blueviolet?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Language-Dart-brightgreen?style=flat-square&logo=dart" /> <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Tools-Git%20%26%20GitHub-black?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notebook-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Project%20Management-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" /> </p>
+  <img src="https://img.shields.io/badge/Notebook-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" /> <img src="https://img.shields.io/badge/Deployment-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Project%20Management-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
+</p>
 
 <br><br>
 
