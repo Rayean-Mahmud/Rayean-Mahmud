@@ -29,6 +29,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+ <!--
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTllYjA0d2E2MWswZDB3OXJoYXZibG1iZGI3ajQ4eTd4a2txeHh4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIVCkv3bcsBwFyESSC/giphy.gif" width="34">  Online Learning & Odyssey
 
 <p align="center">
@@ -44,7 +45,7 @@
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+-->
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZmYmZzdGozeDQyYWZ5Y2E2OXRjd3dheTFvMWd1OGV5c3k5YnU5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="30"> **My Expertise**
 <p align="center">
