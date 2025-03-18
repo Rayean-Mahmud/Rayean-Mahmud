@@ -81,7 +81,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 # <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3l4MHMya3RzcTdzNzVheXNkZnB1aW8wN2c2Z3g2cHpvaGYxbGQ1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U7IxSYwucpNX9vD0aj/giphy.gif" width = "30" > Milestones & Top Projects
-<div align="center"> <table> <tr> <td align="center"> <img src="Animation - 1731352564856.gif" width="150" alt="Milestone Icon"/><br> <strong>2024</strong><br>Final Year Project<br><em> <a href="https://github.com/Rayean-Mahmud/SafeConnect-A-Personal-Safety-Emergency-Alert-and-Connectivity-App-Flutter-Dart-Firebase">SafeConnect</a>- Real-Time Emergency Alert App</em> </td> <td align="center"> <img src="Animation - 1731351827923.gif" width="150" alt="Project Icon"/><br> <strong>2023</strong><br>Completed <br><em>HealthLink - Doctor Appointment System</em> </tr> </table> </div>
+<div align="center"> <table> <tr> <td align="center"> <img src="Animation - 1731352564856.gif" width="150" alt="Milestone Icon"/><br> <strong>2024</strong><br>Final Year Project (Completed) <br><em> <a href="https://github.com/Rayean-Mahmud/SafeConnect-A-Personal-Safety-Emergency-Alert-and-Connectivity-App-Flutter-Dart-Firebase">SafeConnect</a>- Real-Time Emergency Alert App</em> </td> <td align="center"> <img src="Animation - 1731351827923.gif" width="150" alt="Project Icon"/><br> <strong>2023</strong><br>Completed <br><em>HealthLink - Doctor Appointment System</em> </tr> </table> </div>
 
 <br><br>
 
