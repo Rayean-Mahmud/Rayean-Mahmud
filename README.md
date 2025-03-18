@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 # <picture><img src = "about_me.gif" width = 28px></picture> <b> About me </b>
-- 🎓 **Final Year CSE Student** at <a href="https://www.bracu.ac.bd/">BRAC University</a> | BSc in Computer Science & Engineering 
+- 🎓 **Computer Science & Engineering Graduate** from <a href="https://www.bracu.ac.bd/">BRAC University</a> | BSc in Computer Science & Engineering 
 - 💼 Aspiring **Flutter Developer** with expertise in mobile (iOS & Android) and cross-platform apps
 - 🌍 Open to **Remote Opportunities** worldwide
 - 📖 Passionate about **continuous learning**, **problem-solving**, and **technology-driven solutions**
