@@ -23,7 +23,29 @@
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="26"><b> Tech Stack </b>
 
-<table align="center"> <tr> <td align="center" width="140"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"><br><b>Flutter</b></td> <td align="center" width="140"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"><br><b>Firebase</b></td> <td align="center" width="140"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"><br><b>Dart</b></td> <td align="center" width="140"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"><br><b>Figma</b></td> <td align="center" width="140"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"><br><b>MySQL</b></td> <td align="center" width="140"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"><br><b>Python</b></td> </tr> </table>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"><br><b>Flutter</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"><br><b>Firebase</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"><br><b>Dart</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"><br><b>Figma</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"><br><b>MySQL</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"><br><b>Python</b>
+    </td>
+  </tr>
+</table>
+
 
 <br><br>
 
