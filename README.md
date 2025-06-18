@@ -99,6 +99,26 @@
 
 
 <br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW92ZWdkcWlsdmtsZWd0M2ZrcndlcTN6a2RjdmYwYXJkMnhxZDJiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BkzZV1Q9XWz1W/giphy.gif" width="28"> Personal Blog
+
+
+<p align="center">
+  <a href="https://rayean-mahmud.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Blog-Click%20Here-ff69b4?style=for-the-badge&logo=gitbook&logoColor=white" alt="Blog Badge">
+  </a>
+</p>
+
+
+
+
+<p align="center">
+  ✍️ On my blog, I share insights on <strong>technology, personal productivity, self-improvement, and mindful digital living</strong>.  
+  <br>Each post is crafted to inspire growth, spark curiosity, and offer real-world value from my journey as a developer and lifelong learner.
+</p>
+
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
