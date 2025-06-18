@@ -103,7 +103,7 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW92ZWdkcWlsdmtsZWd0M2ZrcndlcTN6a2RjdmYwYXJkMnhxZDJiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BkzZV1Q9XWz1W/giphy.gif" width="28"> Personal Blog
+# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZzNHNnbjI2ajgwY3N2dXVxcW91bTk0OGU1bTA3Y2hnOGRmd3ZnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V0OggVqQxNIOI/giphy.gif" width="28"> Personal Blog
 
 
 <p align="center">
