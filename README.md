@@ -107,18 +107,16 @@
 
 
 <p align="center">
+  ✍️ On my blog, I share insights on <strong>technology, personal productivity, self-improvement, and mindful digital living</strong>.  
+  <br>Each post is crafted to inspire growth, spark curiosity, and offer real-world value drawn from my journey as a developer and lifelong learner.
+</p>
+
+<p align="center">
   <a href="https://rayean-mahmud.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Blog-Click%20Here-ff69b4?style=for-the-badge&logo=gitbook&logoColor=white" alt="Blog Badge">
   </a>
 </p>
 
-
-
-
-<p align="center">
-  ✍️ On my blog, I share insights on <strong>technology, personal productivity, self-improvement, and mindful digital living</strong>.  
-  <br>Each post is crafted to inspire growth, spark curiosity, and offer real-world value from my journey as a developer and lifelong learner.
-</p>
 
 <br><br>
 
