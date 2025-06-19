@@ -131,7 +131,7 @@
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTduZzRrYWU1bzRtYmY0YjVjc3NzZzFtOWYxaGRncTJicHhkbjVxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDHGSSTAnlCUeEQXX/giphy.gif" width ="38"> Fun Facts
 - My IDE runs on as much caffeine as it does on code. Some people count hours; I count cups of coffee. <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpreGI1cDZxd2RwdjhvYXJ6eHZxNDY5NXd2ZDcxNTBzMGVlcmE5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HU7JI4zIb34QM5a/giphy.gif" width ="23">
-- Off-duty? I’m exploring new tech, dreaming of building the “next big thing,” or convincing my friends that coding is fun! 😊
+- Off-duty? I’m exploring new tech, dreaming of building the “next big thing,” or turning late-night thoughts into blog posts that (hopefully) make sense by morning. ✍️✨
 
 <br><br>
 
