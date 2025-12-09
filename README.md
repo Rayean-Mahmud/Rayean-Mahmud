@@ -3,7 +3,7 @@
   <img src="Rayean-Mahmud-Arnob-11-9-2024 (4).png" alt="Rayean Mahmud Arnob " width="400">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=2ECC71&center=true&width=600&lines=Passionate+Flutter+Developer;Aspiring+SQA+Engineer;Transforming+Ideas+into+Apps;Open+to+Collaborations;Let's+Connect!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=2ECC71&center=true&width=600&lines=Aspiring+SQA+Engineer;Exploring+Emerging+Technology;Ensuring+Software+Quality;Open+to+Collaborations;Let's+Connect!" alt="Typing SVG" />
   <!--for green animation: <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&width=418&lines=Passionate+Flutter+Developer;Aspiring+Software+Engineer;Transforming+Ideas+into+Apps;Open+to+Collaborations;Let's+Connect!" alt="Typing SVG" /> 
   alternate color: color=09F7F7 -->
 
@@ -22,6 +22,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="26"><b> Tech Stack </b>
+
 
 <table align="center">
   <tr>
@@ -69,18 +70,20 @@
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
--->
+
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZmYmZzdGozeDQyYWZ5Y2E2OXRjd3dheTFvMWd1OGV5c3k5YnU5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="30"> **My Expertise**
-<p align="center">
-  <img src="expertise.png" alt="" width="740">
-</p>
+- 🖥️ **Software Development:** Proficient in Python, Dart, PHP, and SQL; experienced with Flutter and Firebase for full-stack app development  
+- 🔧 **Tools & IDEs:** Skilled in Visual Studio Code, Git & GitHub, Figma for UI/UX, and Google Colab for Python notebooks  
+- 🧪 **Quality Assurance & Testing:** Hands-on experience in Selenium automation, manual testing, functional & black-box testing, bug reporting using Jira, and test case management in Excel  
+- 📊 **Project Management & Documentation:** Experienced with Trello, Markdown documentation, and structured reporting for efficient workflow  
+- 🌟 **Continuous Learning:** Passionate about improving skills in software testing, automation, and exploring emerging technologies  
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVtYmRsdTYydWp2czBzZDJ6YTI0bW80cHo5MWd2Y2F5N2ppMTF0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gniz0qUijH8T7yRQWR/giphy.gif" width="34">  Aesthetic Coding Setup
+-->
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVtYmRsdTYydWp2czBzZDJ6YTI0bW80cHo5MWd2Y2F5N2ppMTF0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gniz0qUijH8T7yRQWR/giphy.gif" width="34">  Aesthetic Coding & Testing Setup
 
 <p align="center"> <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blueviolet?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code" /> <img src="https://img.shields.io/badge/Language-Dart-brightgreen?style=flat-square&logo=dart" /> <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Tools-Git%20%26%20GitHub-black?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Notebook-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" /> <img src="https://img.shields.io/badge/Deployment-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> 
@@ -136,7 +139,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTduZzRrYWU1bzRtYmY0YjVjc3NzZzFtOWYxaGRncTJicHhkbjVxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDHGSSTAnlCUeEQXX/giphy.gif" width ="38"> Fun Facts
-- My IDE runs on as much caffeine as it does on code. Some people count hours; I count cups of coffee. <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpreGI1cDZxd2RwdjhvYXJ6eHZxNDY5NXd2ZDcxNTBzMGVlcmE5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HU7JI4zIb34QM5a/giphy.gif" width ="23">
+
 - Off-duty? I’m exploring new tech, dreaming of building the “next big thing,” or turning late-night thoughts into blog posts that (hopefully) make sense by morning. ✍️✨
 
 <br><br>
@@ -148,7 +151,7 @@
 
 <div align="center">
   
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume_1.pdf)
 
 </div>
 
